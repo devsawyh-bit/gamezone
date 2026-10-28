@@ -25,5 +25,12 @@ GameZone adalah program berbasis Java Console untuk menghitung biaya penyewaan P
 4. Jalankan program dengan menekan F6.
 5. Masukkan data pelanggan sesuai petunjuk program.
 
+
 ## Screenshot Hasil Program
-![Hasil Program GameZone](hasil-gamezone 1.png)(hasil-gamezone 2.png)
+
+### Tampilan 1
+![Hasil GameZone 1](hasil%20gamezone%201.png.png)
+
+### Tampilan 2
+![Hasil GameZone 2](hasil%20gamezone%202.png.png)
+
